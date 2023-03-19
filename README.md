@@ -9,13 +9,15 @@ Amazon clone featuring:
 - Stripe
 - NextAuth
 - Responsive Design
+- fakestoreapi.com (for pulling the product data)
+- Heroicons (for icons)
 
 # Installation Steps
 
-Run commands
+1. Prereq: Use node 14 (`nvm use 14`)
 
-1. `npm install --global yarn`
+2. `npm install --global yarn`
 
-2. `yarn install`
+3. `yarn install`
 
-3. `yarn run dev`
+4. `yarn run dev`
